@@ -1,4 +1,4 @@
-# Terraform-Networking-and-Compute-Setup-with-AWS 🌐
+# Terraform-Networking-&-Compute-Setup-with-AWS 🌐
 ## 📝 Overview
 This project aims to automate the setup of networking and compute resources in AWS using Terraform. It creates a VPC with public and private subnets, an internet gateway, route tables, security groups, EC2 instances, RDS instance, and Elasticache instance.
 
